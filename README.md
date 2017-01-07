@@ -7,6 +7,6 @@ Requirements:
 	3. If your version is below 55 type you need to update google chrome. Type in command line: sudo apt-get --only-upgrade install google-chrome-stable
 	4. By default the async/await functions are available in google chrome version 55+. 
 
-Using lampp/Xampp:
+If Using lampp/Xampp to host:
 --------------------------------------------------------------------------------
-Just grab the folders in the <a href="https://github.com/mharoot/bfs/tree/master/public">public folder</a> and run.
+Just grab the folders from <a href="https://github.com/mharoot/bfs/tree/master/public">public folder</a> and place into htdocs.
