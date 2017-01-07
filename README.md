@@ -17,4 +17,4 @@ note: (google chrome version 55+ required)
 
 Preview:
 --------------------------------------------------------------------------------
-<img src="https://github.com/mharoot/bfs/tree/master/bfs.png"><img>
+<img src="https://github.com/mharoot/bfs/blob/tree/master/bfs.png"><img>
