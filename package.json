@@ -2,6 +2,10 @@
     "name"        : "localhost",
     "version "    : "0.0.1",
     "description" : "Using express to host static files",
+    "repository"  : {
+	"type" : "git",
+	"url"  : "git://github.com/mharoot/bfs.git"
+    },
     "main"        : "app.js",
     "scripts"     : {
         "test" : "echo \"Error: no test specified"
