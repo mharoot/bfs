@@ -14,3 +14,7 @@ Just grab the folders from <a href="https://github.com/mharoot/bfs/tree/master/p
 <a href="http://bfs.cu.cc"> View Demo Here</a>:
 --------------------------------------------------------------------------------
 note: (google chrome version 55+ required)
+
+Preview:
+--------------------------------------------------------------------------------
+<img src="https://github.com/mharoot/bfs/tree/master/bfs.png"><img>
