@@ -10,3 +10,7 @@ Requirements:
 If Using lampp/Xampp to host:
 --------------------------------------------------------------------------------
 Just grab the folders from <a href="https://github.com/mharoot/bfs/tree/master/public">public folder</a> and place into htdocs.
+
+Live Demo:
+--------------------------------------------------------------------------------
+(google chrome version 55+ required) bfs.cu.cc
