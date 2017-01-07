@@ -1,7 +1,7 @@
 {
-    "name"        : "localhost",
+    "name"        : "bfs",
     "version "    : "0.0.1",
-    "description" : "Using express to host static files",
+    "description" : "bfs search and shortest path demo",
     "repository"  : {
 	"type" : "git",
 	"url"  : "git://github.com/mharoot/bfs.git"
