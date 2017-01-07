@@ -9,4 +9,4 @@ Requirements:
 
 Using lampp/Xampp:
 --------------------------------------------------------------------------------
-	1. Just grab the folders in the <a href="https://github.com/mharoot/bfs/tree/master/public">public folder</a> and run.
+Just grab the folders in the <a href="https://github.com/mharoot/bfs/tree/master/public">public folder</a> and run.
