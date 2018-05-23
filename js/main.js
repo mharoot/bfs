@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     function addTableCellListners()
     {
-        $("td").on("mousedown mouseover touchstart touchmove touchend touchcancel", function (e) {
+        $("td").on("mousedown mouseover touchstart touchcancel", function (e) {
 
             if (e.buttons == 1 || e.buttons == 3 || e.touches != null)
             {
@@ -19,13 +19,13 @@ $(document).ready(function() {
                 // $(this).unbind();
                 if(gg.isStart())
                 {
-                    // $(this).unbind();
+                    $(this).unbind();
                     gg.startingPoint =  $(this) ;
                     gg.removeStart();
                 } 
                 if(gg.isEnd())
                 {
-                    // $(this).unbind();
+                    $(this).unbind();
                     gg.endingPoint =  $(this) ;
                     gg.removeEnd();
                 }
