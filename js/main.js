@@ -16,16 +16,16 @@ $(document).ready(function() {
                     backgroundColor: gg.getColor()
                 });
                 console.log(pointerEventToXY(e)); // will return obj ..kind of {x:20,y:40}
-                $(this).unbind();
+                // $(this).unbind();
                 if(gg.isStart())
                 {
-                    $(this).unbind();
+                    // $(this).unbind();
                     gg.startingPoint =  $(this) ;
                     gg.removeStart();
                 } 
                 if(gg.isEnd())
                 {
-                    $(this).unbind();
+                    // $(this).unbind();
                     gg.endingPoint =  $(this) ;
                     gg.removeEnd();
                 }
