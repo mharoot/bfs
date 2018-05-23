@@ -82,6 +82,8 @@ this.clearGrid = function clearGridMarks() {
             backgroundColor: ""
         });
         this.graph = new Graph();
+        $('parent_div').html('');
+        this.createGrid();
 }
 
 this.setColor = function colorWall(color) {
